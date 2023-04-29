@@ -1,1 +1,5 @@
+add misc/sound_common/custom_music_param.rfl
+add misc/sound_common/sound_common_misc.level
+add misc/sound_common/sound_common_param.rfl
+add misc/sound_common.pac
 add mod.ini

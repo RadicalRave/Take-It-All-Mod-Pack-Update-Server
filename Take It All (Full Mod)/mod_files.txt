@@ -1,2 +1,2 @@
-add raw/misc/sound_common.pac
+add raw/misc
 add mod.ini
